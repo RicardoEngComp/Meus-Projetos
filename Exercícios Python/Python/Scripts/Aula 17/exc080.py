@@ -1,3 +1,5 @@
+# Crie uma lista, que receba cinco valores, e, a cada valor inserido, a lista se auto ordene automáticamente, (sem utilizar o sort)
+
 numeros = []
 entrou = False
 for c in range (0,5):
