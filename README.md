@@ -2,3 +2,5 @@
  Curso inicial de Python
 
  Exercícios resolvidos
+ 
+ Curso em vídeo
