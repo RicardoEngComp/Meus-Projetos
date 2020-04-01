@@ -1,7 +1,6 @@
 #Crie um programa onde o usuário digite uma expressão qualquer que use parenteses.
 #Seu programa deverá analisar se a 
 #expressão está com os parenteses abertos ou fechados na ordem correta.
-abriu = False
 valida = True
 contadorDeAberturas = 0
 expressao = str(input('Digite uma expressão: '))
